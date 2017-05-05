@@ -2,14 +2,15 @@
 ||| 
                                                                                                       "How to Use World TV Media Center" 
                                                                       
-All the top Apps refresh daily, While using WorldTV here are the Key Features we have added as of 4/30/2017
+To Open the Submenus for each of the sections look for the dropdown arrow to see the content on your screen 
 
 (New Updates) as of 5/1/2017 
 
 > WorldTV New Updated Build 
-> New Theme with Latest New Color Scheme 
-> Latest New Movies and TV Section 
-> Sports Section updated with new Sections 
-> Adults has its own tab with Website Links
+> Added the Movie Section 
+> TVShows Added 
+> Sports Section is added Links Live Events and More.
+> All Color Schemes are Newly Added 
+> Adults section links are avaiable 
 
-That's The Latest as of 4/30/17
+That's The Latest as of 5/1/17
