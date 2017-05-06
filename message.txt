@@ -10,6 +10,7 @@ How To: Select The Tabs Widgets and Submenu's Tabs Use the up arrow and down arr
 > WWE/UFC Feeds and links Online 
 > Sports Feeds work some don't 
 > Movies and TV Links Working 
+> Sports Section Links [COLORwhite](Online)[/COLOR]
 
 _____Menu's Update Below ________
     * Updated as of 5/5/17 *
@@ -18,6 +19,6 @@ _____Menu's Update Below ________
 > TVShows 
 > Adults Section Added 
 > Sports Section Updated
-> Sports Section Links [COLORwhite](Online)[/COLOR]
+> Movies and TVShows Should Work 
 > Need Help Review the video's in the Maintanance Section
 * Visit AJGSportsNY.net/worldtvmedia for more info
