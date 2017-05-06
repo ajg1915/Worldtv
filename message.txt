@@ -1,6 +1,7 @@
 1
 ||| 
-                                                                                                      "How to Use World TV Media Center 
+                                                                                                      "How to Use World TV Media Center" 
+
 How To: Select The Tabs Widgets and Submenu's Tabs Use the up arrow and down arrow  
 
 [COLORWhite]Here is your WorldTV Notifier Updates as of 5/1/2017[/COLOR] 
@@ -11,11 +12,12 @@ How To: Select The Tabs Widgets and Submenu's Tabs Use the up arrow and down arr
 > Movies and TV Links Working 
 
 _____Menu's Update Below ________
-  * Updated as of 5/5/17 *
+    * Updated as of 5/5/17 *
 
 > Movie Section added
 > TVShows 
 > Adults Section Added 
 > Sports Section Updated
+> Sports Section Links [COLORwhite](Online)[/COLOR]
 > Need Help Review the video's in the Maintanance Section
 * Visit AJGSportsNY.net/worldtvmedia for more info
