@@ -11,7 +11,7 @@ How To: Select The Tabs Widgets and Submenu's Tabs Use the up arrow and down arr
 > Movies and TV Links Working 
 
 _____Menu's Update Below ________
-Updated as of 5/5/17
+  * Updated as of 5/5/17 *
 
 > Movie Section added
 > TVShows 
