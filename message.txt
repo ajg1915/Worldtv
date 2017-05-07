@@ -10,7 +10,7 @@ in The Maintianance Submenu Tab to see what is being updated daily Also watch th
 
  _____Menu Update Status Below ________                  
      * Updated as of 5/7/17 *
-> Movie Section Added -Updated as Of 5/7/2017 *All Links are [COLORred]ONLINE[/COLOR]*
+> Movie Section Added -Updated as Of 5/7/2017 *All Links are [COLORgreen](ONLINE)[/COLOR]*
 > TVShows Section Added -Updated Last 5/5/2017
 > Adults Section Added -Updated As of 5/7/2017 *There is no Pin Code for Section* 
 > Sports Section -Updated *Links are Now[COLORRed]Offline[/COLOR]
