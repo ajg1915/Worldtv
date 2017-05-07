@@ -1,4 +1,4 @@
-2
+1
 ||| 
                                                                                                       "World TV Media Center Notifier" 
 
@@ -8,8 +8,8 @@ Need to Know? -All Menus Are Used with the Up/Down Feature on all devices.
 WorldTV Disclaimer- To Review All Latest News around WorldTV Media Center Please Open News Updates 
 in The Maintianance Submenu Tab to see what is being updated daily Also watch the Need Me Tutorials for additional Help.
 
- _____Menu Update Status Below ________                  
-     * Updated as of 5/7/17 *
+ _____Menu Update Status WorldTV Server ________                  
+     * Updated as of 5/8/17 *
 > Movie Section Added -Updated as Of 5/7/2017 *All Links are [COLORgreen](ONLINE)[/COLOR]*
 > TVShows Section Added -Updated Last 5/7/2017
 > Adults Section Added -Updated As of 5/7/2017 *There is no Pin Code for Section* 
