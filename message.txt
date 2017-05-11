@@ -8,7 +8,7 @@ Need to Know? -All Menus Are Used with the Up/Down Feature on all devices.
 WorldTV Disclaimer- To Review All Latest News around WorldTV Media Center Please Open News Updates 
 in The Maintianance Submenu Tab which is being updated Also watch the "Need Me Tutorials" For additional Help. 
 
-[COLORgreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]GettingStarted [COLORred](Red)[/COLOR]OFFLINE
+Status Update:[COLORgreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]OFFLINE
 
  _____Menu Update Status WorldTV Server ________                  
               * Updated as of 5/10/17 *
