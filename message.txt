@@ -11,11 +11,11 @@ in The Maintianance Submenu Tab which is being updated Also watch the "Need Me T
 Status Update:[COLORgreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
  _____Menu Update Status WorldTV Server ________                  
-                * Updated as of 5/10/17 *
+                * Updated as of 5/12/17 *
 > Movie Section Added -Updated as Of 5/10/2017 *All Links are [COLORgreen](ONLINE)[/COLOR]*
-> TVShows Section Added -Updated Last 5/10/2017
-> Adults Section Added -Updated As of 5/11/2017 *There is no Pin Code for Section* 
-> Sports Section -Updated *Links are Now [COLORred](Offline)[/COLOR]*
+> TVShows Section Added -Updated Last 5/12/2017
+> Adults Section Added -Updated As of 5/12/2017 *There is no Pin Code for Section* 
+> Sports Section -Updated *Links are Now [COLORgreen](Online)[/COLOR]*
 > Need Help -Review the video's in the Maintanance Section
 > LiveTV-Created USA Listings Status:[COLORgreen](ONLINE)[/COLOR]
 *Visit AJGSportsNY.net/worldtvmedia for more info*
