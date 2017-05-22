@@ -11,7 +11,7 @@ in The Maintianance Submenu Tab which is being updated Also watch the "Need Me T
 Status Update:[COLORgreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
  _________Menu Update Status WorldTV Server ____________                  
-                * Updated as of 5/21/17 *
+                * Updated as of 5/21/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
 > Movie Section Added -Updated With New Addon as of 5/16/17*
 > TVShows Section Added- New Addon as of 5/16/2017 
 > Sports Section -Updated *Links are Now [COLORgreen](Online)[/COLOR]*
