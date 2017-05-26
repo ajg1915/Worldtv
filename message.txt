@@ -4,17 +4,15 @@
 [COLORorange][B]~ What's New ~ [/B][/COLOR]
 Need Help ?? -To select Menu/Submenu Use the Up/Down Key On your Remote to Naviagate Your selection.
 Need to Know? -All Menus Are Used with the Up/Down Feature on all devices. 
-[COLORred] ~ We want to Tell All[/COLOR] [COLORwhite]Venterns Thank You[/COLOR] [COLORblue]Happy Venterns Day to all Vets ~[/COLOR] 
-WorldTV Disclaimer- To Review All Latest News around WorldTV Media Center Please Open News Updates 
-in The Maintianance Submenu Tab which is being updated Also watch the "Need Me Tutorials" For additional Help. 
+[COLORred] ~ We want to Tell All[/COLOR] [COLORwhite]OUR Vets Thanks You[/COLOR] [COLORblue]For serving Our Country ~[/COLOR] 
 
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
  _________Menu Update Status WorldTV Server ____________                  
-                * Updated as of 5/21/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
-> Movie Section Added -Updated With New Addon as of 5/16/17*
-> TVShows Section Added- New Addon as of 5/16/2017 
-> Sports Section -Updated *Links are Now [COLORlimegreen](Online)[/COLOR]*
+                * Updated as of 5/26/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
+> Movie Section Added -Updated With New Addon as of 5/26/17*
+> TVShows Section Added- New Addon as of 5/26/2017 
+> Sports Section -Updated *Links are Now [COLORred](Offline)[/COLOR]*
 > Need Help -Review the video's in the Maintanance Section
 > LiveTV-Created USA Listings Status:[COLORlimegreen](ONLINE)[/COLOR]
 *Visit AJGSportsNY.net/worldtvmedia for more info*
