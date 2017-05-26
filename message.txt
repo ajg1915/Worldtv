@@ -9,7 +9,7 @@ Need to Know? -All Menus Are Used with the Up/Down Feature on all devices.
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
  _________Menu Update Status WorldTV Server ____________                  
-                * Updated as of 5/26/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
+      * Updated as of 5/26/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
 > Movie Section Added -Updated With New Addon as of 5/26/17*
 > TVShows Section Added- New Addon as of 5/26/2017 
 > Sports Section -Updated *Links are Now [COLORred](Offline)[/COLOR]*
