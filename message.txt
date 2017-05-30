@@ -4,7 +4,7 @@
 [COLORorange][B]~ What's New ~ [/B][/COLOR]
 Need Help ?? -To select Menu/Submenu Use the Up/Down Key On your Remote to Naviagate Your selection.
 Need to Know? -All Menus Are Used with the Up/Down Feature on all devices. 
-[COLORred] ~ We want to Tell All[/COLOR] [COLORwhite]OUR Vets Thanks You[/COLOR] [COLORblue]For serving Our Country ~[/COLOR] 
+
 
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
@@ -12,6 +12,6 @@ Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]
       * Updated as of 5/26/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
 > Movie Section Added -Updated With New Addon as of 5/26/17*
 > TVShows Section Added- New Addon as of 5/26/2017 
-> Sports Section -Updated *Links are Now [COLORred](Offline)[/COLOR]*
+> Sports Section -Updated *Links are Now [COLORgreen](Online)[/COLOR]*
 > Need Help -Review the video's in the Maintanance Section
 *Visit AJGSportsNY.net/worldtvmedia for more info*
