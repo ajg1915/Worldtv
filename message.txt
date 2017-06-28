@@ -1,18 +1,18 @@
 1
 ||| 
                                                                                                       "World TV Media Center Notifier" 
-[COLORorange][B]~ What's New ~ [/B][/COLOR]
-Need Help ?? -To select Menu/Submenu Use the Up/Down Key On your Remote to Naviagate Your selection.
+[COLORorange][B]~ (Read Before Closing)- Critical New Updates~ [/B][/COLOR]
+How To Use Controls -To select Menu/Submenu Use the Up/Down Key On your Remote to Naviagate Your selection.
 Need to Know? -All Menus Are Used with the Up/Down Feature on all devices. 
-
 
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
  _________Menu Update Status WorldTV Server ____________                  
-      * Updated as of 6/28/17- Next Updated [COLORlimegreen 9/9/17[/COLOR]*
+      * Updated as of 6/27/17- Next Updated [COLORlimegreen 9/9/17[/COLOR]*
 [COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
 "Movies Icon Has Updated New Submenus Please be advised The Feeds do Go down"
-"TVShows Has LiveTV Plus coming soon is The TV Guide Feature"
-"Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
+"TVShows Icon Has LiveTV Plus coming soon is The TV Guide Feature"
+"Sports Icon now has the Live & Upcoming in submenu under the Sports Section to Watch on NBCSN"
 [COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see the Popup[/COLOR]
 * These are all the updated Features on the Latest 17.1 Update of WorldTV*
+Visit AJGSportsNY.Net/worldtvmedia for more info on update 
