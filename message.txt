@@ -15,4 +15,4 @@ Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]
 "TVShows Has LiveTV Plus coming soon is The TV Guide Feature"
 "Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
 [COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see the Popup[/COLOR]
-* These are all the updated Features on the Latest 17.1 Update of WorldTV * 
+* These are all the updated Features on the Latest 17.1 Update of WorldTV*
