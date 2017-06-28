@@ -10,8 +10,8 @@ Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]
  _________Menu Update Status WorldTV Server ____________                  
       * Updated as of 6/28/17- Next Updated [COLORlimegreen]6/18/17[/COLOR]*
 [COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
-"Movies Icon Has Updated New Submenus"
-"TVShows Has LiveTV Plus coming soon is The TV Guide Feature"
-"Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
-[COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see the Popup[/COLOR]
+> Movies Icon Has Updated New Submenus"
+> TVShows Has LiveTV Plus Coming Soon TV Guide Feature will be Updated"
+> Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
+[COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see WorldTV News Click on it for Updates Daily[/COLOR]
 * These are all the updated Features on the Latest 17.1 Update of WorldTV * 
