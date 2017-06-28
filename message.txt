@@ -3,9 +3,7 @@
 [COLORorange][B]~ (Read Before Closing)- Critical New Updates~ [/B][/COLOR]
 How To Use Controls -To select Menu/Submenu Use the Up/Down Key On your Remote to Naviagate Your selection.
 Need to Know? -All Menus Are Used with the Up/Down Feature on all devices. 
-
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
-
  _________Menu Update Status WorldTV Server ____________                  
       * Updated as of 6/27/17- Next Updated [COLORlimegreen 9/9/17[/COLOR]*
 [COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
