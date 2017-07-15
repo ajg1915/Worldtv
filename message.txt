@@ -7,15 +7,15 @@ Need to Know? -All Menus Are Used with the Up/Down Feature on all devices.
 [COLORred]News Alert:[/COLOR] [COLORlimegreen]We build our software bigger,better and faster[/COLOR] 
 Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]Maintanance[COLORred](Red)[/COLOR]Offline
 
+
  _________Menu Update Status WorldTV Server ____________                  
       * Updated as of 6/28/17- Next Updated [COLORlimegreen] 9/18/17[/COLOR]*
 [COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
 WorldTV Now Has a new Updater due to Repo Issues we have fix Section that replaced from the WorldTV Build
 > Movies- Search Updated in Submenu
 > TVShows-Search Updated in Submenu 
-> Added Search Menu 
+> Added Search Menu with All New Section 
 > Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
-> Search Menu created The adults Section in search menu is password protected #6969 
 > WorldTV Wizard New Updater and Builds please read website for more info how to download new Build !
 [COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see WorldTV News View it for Updates Daily[/COLOR]
 * These are all the updated Features on the Latest 17.1 Update of WorldTV * 
