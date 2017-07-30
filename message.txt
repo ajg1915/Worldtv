@@ -9,7 +9,6 @@ Status Update:[COLORlimegreen](Green)[/COLOR]Online[COLORorange](Orange)[/COLOR]
 
 
  _________Menu Update Status WorldTV Server Status:[COLORlimegreen]Online[/COLOR]____________                  
-      * Updated as of 6/28/17- Next Updated [COLORlimegreen] 9/18/17[/COLOR]*
 [COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
 WorldTV Now Has a new Updater due to Repo Issues we have fix Section that replaced from the WorldTV Build
 > Movies- Search Updated in Submenu
