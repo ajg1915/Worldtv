@@ -3,9 +3,11 @@
                                                                                                       "World TV Media Center Notifier" 
 [COLORorange][B]~ What's New ~ [/B][/COLOR]
 How to Use- The icons Non clickable Use submenu and Widget Menu ↕️ from remote to Use The navigation 
+Wait for The Screen to load all the widgets on WorldTV
 
  _________Menu Update Status WorldTV Server Status:[COLORlimegreen]Online[/COLOR]____________                  
-Read The Instruction How to Use WorldTV Here is a overview Of WorldTV 
+
+[COLORlimegreen]Here Is A Look at the features that come with WorldTV.[/COLOR]
 
 [COLORblue]Movies-[/COLOR]In theaters Widget (Submenu)-All categories with a search section and Extended Menu. 
 [COLORlimegreen]TVShows-[/COLOR] Latest Shows widget ( Submenu)- All latest TVShows LiveTV Search and TV's Extended Menu.
