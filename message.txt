@@ -5,12 +5,13 @@
 How to Use- The icons Non clickable Use submenu and Widget Menu ↕️ from remote to Use The navigation 
 
  _________Menu Update Status WorldTV Server Status:[COLORlimegreen]Online[/COLOR]____________                  
-[COLORlimegreen]Welcome users to WorldTV Please Make Sure You are reading Everything Under the content on the Screen[/COLOR] 
-WorldTV Now Has a new Updater due to Repo Issues we have fix Section that replaced from the WorldTV Build
-> Movies- Search Updated in Submenu
-> TVShows-Search Updated in Submenu 
-> Added Search Menu with All New Section 
-> Sports now has the Live & Upcoming Under the Sports Section to Watch on NBCSN"
-> WorldTV Wizard New Updater and Builds please read website for more info how to download new Build !
-[COLORlimegreen]To View All WorldTV News Go to The Maintanance Section to see WorldTV News View it for Updates Daily[/COLOR]
-* These are all the updated Features on the Latest 17.1 Update of WorldTV * 
+Read The Instruction How to Use WorldTV Here is a overview Of WorldTV 
+
+[COLORblue]Movies-[/COLOR]In theaters Widget (Submenu)-All categories with a search section and Extended Menu. 
+[COLORlimegreen]TVShows-[/COLOR] Latest Shows widget ( Submenu)- All latest TVShows LiveTV Search and TV's Extended Menu.
+[COLORblue]Sports-[/COLOR] Sports Categories Listings (Submenu)-All Sports extended Live Menu 
+[COLORlimegreen]Music-[/COLOR] Latest and Most Recent Music Playlist On Youtube 
+[COLORblue]Adults18+[/COLOR] Latest and Most Recent All Adults Entertainment Websites 
+[COLORlimegreen]Maintenance-[/COLOR] Tools to keeping your Device Fresh Daily use. 
+
+If any questions plase visit www.ajgsportsny.net/worldtvmedia for info on WorldTV 
