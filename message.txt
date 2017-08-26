@@ -7,13 +7,11 @@ Wait for The Screen to load all the widgets on WorldTV
 
  _________Menu Update Status WorldTV Server Status:[COLORlimegreen]Currently Updating Still Online[/COLOR]____________                
 [COLORlimegreen]Here Is A Look at the features that come with WorldTV.[/COLOR]
-[COLORlimegreen]Aug 28,2017 Floyd Mayweather Vs Conner Mcgregor we will notify you where to find the link for fight. 
 
-[COLORblue]Movies-[/COLOR]In theaters Widget (Submenu)-All categories with a search section and Extended Menu. 
-[COLORlimegreen]TVShows-[/COLOR] Latest Shows widget ( Submenu)- All latest TVShows LiveTV Search and TV's Extended Menu.
-[COLORblue]Sports-[/COLOR] Sports Categories Listings (Submenu)-All Sports extended Live Menu 
-[COLORlimegreen]Music-[/COLOR] Latest and Most Recent Music Playlist On Youtube 
-[COLORblue]Adults18+[/COLOR] Latest and Most Recent All Adults Entertainment Websites 
-[COLORlimegreen]Maintenance-[/COLOR] Tools to keeping your Device Fresh Daily use. 
+[COLORred]Alert[/COLOR] Hello WorldTV Members Fight of the Century!
+Tonights Match Against Conner Mcgregor Vs Money Floyd Mayeweather 
+The Link Is avaiable in The Sports Under the Sports addon section by clicking on 
+SportsDevil for the Link... Thank you For being A WorldTV Subscriber 
+
 
 If any questions plase visit www.ajgsportsny.net/worldtvmedia for info on WorldTV 
