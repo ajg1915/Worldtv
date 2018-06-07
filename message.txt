@@ -1,6 +1,6 @@
 2
 ||| 
-                                                                                                                                                 "World TV Media Center Notifier" 
+                                                                                                                                                                                                                            "World TV Media Center Notifier" 
 [COLORorange][B]~ Welcome to Our News Center ~ [/B][/COLOR]  
 
  ___Menu Update Status Worldtv _____ [COLORlimegreen]ONLINE[/COLOR]        
@@ -11,7 +11,8 @@ Critical News: Website is down due to maintenance if you are trying to use our f
 If you see openload links you can use the link your Protected with a VPN Service when pairing.
 [COLORlimgreen]~Updating~[/COLOR] All Live Links are being updated at this time
 [COLORlimegreen]~Update~ Sports:[/COLOR] When looking for links See the Sports section to Find sportsdevil for live links
-This is the Latest News around WorldTV You can read more by going to our forum !!!!
+
+[COLORlimegreen]WORLDTV:[/COLOR]This is the Latest News around WorldTV You can read more by going to our forum !!!!
 
 Here is our website by going to www.ajgsportsny.net/worldvtmedia for more info....
 
