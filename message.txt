@@ -6,9 +6,9 @@
 ___WORLDTV News__________
 
 [COLORlimegreen]~What's New~[/COLOR]
-[COLORwhite]~Update Current Build~[/COLOR] 1.6 WorldTV
-[COLORlimegreen]~Latest~[/COLOR] To view Submenu's scroll to section in Top categories in new build 
-[COLORlimegreen]~Protected Content~[/COLOR] : adult section has a password protected for kids here is the code 0000  
+[COLORwhite]~Current Build~[/COLOR] 1.6 WorldTV 9/22/18
+[COLORlimegreen]~Remote Features~[/COLOR] Categories list is on each section 
+[COLORlimegreen]~Protected Content~[/COLOR] : adult's Menu code is :#0000  
 [COLORlimegreen]WORLDTV Blog:[/COLOR] Here is our website by going to www.ajgsportsny.net/worldvtmedia for more info....
 
 
