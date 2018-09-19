@@ -1,15 +1,14 @@
 2
 ||| 
-                                                                                                                                                                                                                            "World TV Media Center Notifier" 
-[COLORorange][B]~ Welcome to Our News Center ~ [/B][/COLOR]  
+                                                                                                                                                                                                                           
+[COLORorange][B]~ Welcome To WorldTV News Center ~ [/B][/COLOR]  
 
- ___Menu Update Status Worldtv _____ [COLORlimegreen]ONLINE[/COLOR]        
-Critical News:We have updated the New Build to 1.6 Please Read Below 
+___WORLDTV News__________
 
 [COLORlimegreen]~What's New~[/COLOR]
 [COLORwhite]~Update Current Build~[/COLOR] 1.6 WorldTV
 [COLORlimegreen]~Latest~[/COLOR] To view Submenu's scroll to section in Top categories in new build 
-[COLORlimegreen]~Update~[/COLOR] : adult section has a password protected for kids here is the code 0000  
-[COLORlimegreen]WORLDTV:[/COLOR] Here is our website by going to www.ajgsportsny.net/worldvtmedia for more info....
+[COLORlimegreen]~Protected Content~[/COLOR] : adult section has a password protected for kids here is the code 0000  
+[COLORlimegreen]WORLDTV Blog:[/COLOR] Here is our website by going to www.ajgsportsny.net/worldvtmedia for more info....
 
 
