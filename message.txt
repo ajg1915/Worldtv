@@ -8,7 +8,7 @@
 [COLORlimegreen]~What's New~[/COLOR]
 [COLORwhite]~Current Build~[/COLOR] 1.6 WorldTV 9/22/18
 Live Stream you will find on WorldTV Live 
-Stream Status : [COLORred]Offline[/COLOR] 
-Next Stream Avaiable is: 10/8/2018
+Stream Status : [COLORred]Live[/COLOR] 
+Next Stream Avaiable is: 10/10/2018
 
 
