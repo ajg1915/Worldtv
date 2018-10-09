@@ -1,7 +1,7 @@
 3
 ||| 
-                                                                                                                                                                                                                           
-WELCOME TO WORLDTV
+
+WELCOME TO WORLDTV:
 -------------------------------------------------------------------
 WorldTV Wizard & Build Info  [COLORlimegreen]Current Build is:[/COLOR] 1.6 
 -------------------------------------------------------------------
