@@ -2,11 +2,13 @@
 ||| 
 
 
-Welcome to the All New Updated Version of World.TV Notification Center
+Welcome to the All New Status Updater of WorldTV Version 1.8
 -----------------------------------------------------------------------------
-~ Here we will Announce The Letest Changes To The Builds and Update Skins 
----------------------------------------------------------------------------------------
-WorldTV Build and Wizard is Currently on 1.8 WTV
-
-Newest Up Date is  1/1/2018 
+~Here is What's~[COLORlimegreen]Online[/COLOR]
+-Movies works and TV Shows We updated Cinema Section with Live Adult Content [COLORlimegreen](ONLINE)[/COLOR]
+-In the watch Tab WWE Feeds work and UFC Feeds if they dont work please let u know [COLORlimegreen](ONLINE)[/COLOR]
+----------------------------------------------------------------------------
+Here is What's in Pending Status :
+MLB-(NO FEEDS) NFL-(Playoffs Streams Coming Soon) NHL-[COLORorange]Updating[/COLOR] NBA-[COLORorange]Updating[/COLOR]
+-Sports Addons and Sports Network Feeds [COLORorange]Updating[/COLOR]
 ----------------------------------------------------------------------------
