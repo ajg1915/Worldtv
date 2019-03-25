@@ -4,10 +4,10 @@
 
 Welcome to WorldTV 2.0
 -----------------------------------------------------------------------------
-~Here is What's~[COLORlimegreen]Discontinued[/COLOR]
-WorldTV 2.0 Is the Latest New Update 
+ WorldTV 2.0 Is the Latest New Update 
 ----------------------------------------------------------------------------
-If you Have older WorldTV Its no longer Going to Work 
+If you Have older WorldTV Its no longer Going to Work WorldTV-[COLORlimegreen]Discontinued[/COLOR] 
 ----------------------------------------------------------------------------
-WorldTV Only works on Newer Amazon Sticks and New Android Devices 
+WorldTV2.0 Only works on Newer Amazon Sticks and New Android Devices 
 -----------------------------------------------------------------------------
+
