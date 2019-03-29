@@ -1,8 +1,15 @@
 2
 ||| 
 
-Welcome to the All New Notification Menu
+Welcome to WorldTV Live Feed Updater: 
 ----------------------------------------------------
-Here is What's New 
+TV Listings Channels - [COLORlimegreen]Online[/COLOR] 
+MLB Network - [COLORlimegreen]Online[/COLOR]
+NFL Network - [COLORlimegreen]Online[/COLOR]
+NHL Network - [COLORlimegreen]Online[/COLOR]
+NBA Network - [COLORlimegreen]Online[/COLOR]
+WWE Network - [COLORlimegreen]Online[/COLOR] 
+-------------------------------------------------------
+We will let you know if it goes offline
 
 
