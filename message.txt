@@ -3,11 +3,8 @@
 
 Welcome to WorldTV Live Feed Updater: 
 ----------------------------------------------------
-TV Listings Channels - [COLORlimegreen]Online[/COLOR] 
-MLB Network - [COLORlimegreen]Online[/COLOR]
-NFL Network - [COLORlimegreen]Online[/COLOR]
-NHL Network - [COLORlimegreen]Online[/COLOR]
-NBA Network - [COLORlimegreen]Online[/COLOR]
-WWE Network - [COLORlimegreen]Online[/COLOR] 
+Welcome Users Right now we are fixing some addons and Menu Issues 
+We are aware of the problem and we fixing it once we are done we will-
+have The New Update Next time you Open WorldTV2.0 Tanks for your Support 
 -------------------------------------------------------
 We will let you know if it goes offline/online
