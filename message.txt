@@ -1,7 +1,7 @@
 2
 ||| 
 
-Welcome to WorldTV Live Feed Updater: 
+Welcome to WorldTV Live Updater: 
 ----------------------------------------------------
 Welcome Users Right now we are fixing some addons and Menu Issues 
 We are aware of the problem and we fixing it once we are done we will-
